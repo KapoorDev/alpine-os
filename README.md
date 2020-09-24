@@ -1,6 +1,6 @@
-# Foobar
+# Alpine-OS
 
-Foobar is a Python library for dealing with word pluralization.
+Script To Install Alpine OS in Your Termux
 
 ## Installation
 
